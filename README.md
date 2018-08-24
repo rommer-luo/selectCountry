@@ -13,11 +13,11 @@
 
 
 
-   HTML： <div class="layui-form-item">
-              <label class="layui-form-label form-left-tag"><span class="must-input">*&nbsp;</span>买方国家代码：</label>
-              <div class="layui-input-block  sap-line countrySelect">
-              </div>
-          </div>
+   HTML： 
+   <div class="layui-form-item">
+  <label class="layui-form-label form-left-tag"><span class="must-input">*&nbsp;</span>买方国家代码：</label>
+  <div class="layui-input-block  sap-line countrySelect"></div>
+  </div>
 
 
 
