@@ -1,0 +1,27 @@
+.country-code {
+    display: inline-block;
+    width: 20%;
+}
+
+.country-select-btn {
+    position: relative;
+    top: -1px;
+    margin: 0 5px;
+}
+
+.country-name {
+    display: inline-block;
+    width: 20%;
+}
+
+.selectCountryTop {
+    margin: 1% 5% 1% 5%;
+}
+
+.selectCountryTop .btn-search {
+    margin-right: 5px;
+}
+
+.selectCountryModel {
+    margin: 0 5%;
+}
