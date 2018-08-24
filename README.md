@@ -10,12 +10,15 @@
       'msg'   =>  "",
   ];
 3、使用时，在当前页面引入CSS和js,直接用对应的Dom调用即可，如下：
+
+
+
    HTML： <div class="layui-form-item">
               <label class="layui-form-label form-left-tag"><span class="must-input">*&nbsp;</span>买方国家代码：</label>
               <div class="layui-input-block  sap-line countrySelect">
-
               </div>
           </div>
+
 
 
   js：$('.countrySelect', $creditBody).countrySelect();
